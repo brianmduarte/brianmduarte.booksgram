@@ -1,2 +1,4 @@
-# brianmduarte.booksgram
-Desenvolvimento de projeto simulando algo parecido à pagina inicial do Instagram
+# .booksgram
+ Este projeto teve como intuito reproduzir a página inicial do Instagram. No projeto, faço pequenas mudanças simulando uma rede para socialização de livros, o qual denomino Booksgram.
+
+ Segue link para visualizar o projeto:
